@@ -49,7 +49,7 @@ Os arquivos neste repositório seguem o fluxo de trabalho de ciência de dados e
 
 ## 📈 Resultados do Modelo de Machine Learning
 
-Após o treinamento e teste de múltiplos algoritmos de classificação, o modelo [**INSIRA O NOME DO SEU MELHOR MODELO, ex: Regressão Logística**] alcançou a melhor performance, com uma acurácia de **[INSIRA A ACURÁCIA, ex: 85%]** no conjunto de testes. As features mais importantes para a previsão foram [INSIRA AS FEATURES MAIS IMPORTANTES].
+Após o treinamento e teste de múltiplos algoritmos de classificação, o modelo Árvore de Decisão (Decision Tree) alcançou a melhor performance, com uma acurácia de 91% no conjunto de testes. 
 
 ## 🎓 Certificado
 
