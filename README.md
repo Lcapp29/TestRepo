@@ -43,7 +43,7 @@ Os arquivos neste repositório seguem o fluxo de trabalho de ciência de dados e
 * **`Logistic-Regression-v1.ipynb`**: Testa e avalia diversos modelos de classificação (Regressão Logística, SVM, Árvore de Decisão, KNN) para encontrar o modelo com melhor performance na previsão de sucesso do lançamento.
 
 ### 6. Dashboard Interativo
-* **`Dashboard code with plot`**: (Assumindo que esta pasta contém o código) Script em Plotly Dash que cria um dashboard interativo para visualizar os resultados dos lançamentos e as taxas de sucesso.
+* **`Dashboard code with plot`**: Script em Plotly Dash que cria um dashboard interativo para visualizar os resultados dos lançamentos e as taxas de sucesso.
 
 ---
 
