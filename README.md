@@ -51,6 +51,8 @@ Os arquivos neste repositório seguem o fluxo de trabalho de ciência de dados e
 
 Após o treinamento e teste de múltiplos algoritmos de classificação, o modelo Árvore de Decisão (Decision Tree) alcançou a melhor performance, com uma acurácia de 91% no conjunto de testes. 
 
+* **`Capstone Project IBM Data Science.pdf`**: O arquivo com a apresentação dos resultados e eplicação da metodologia utilizada.
+
 ## 🎓 Certificado
 
 * **[Link para o Certificado no Coursera](https://coursera.org/share/fa64e3ae11e03bc02b8a2e1df229420d)**
