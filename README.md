@@ -53,4 +53,4 @@ Após o treinamento e teste de múltiplos algoritmos de classificação, o model
 
 ## 🎓 Certificado
 
-* **[Link para o Certificado no Coursera]([https://coursera.org/share/fa64e3ae11e03bc02b8a2e1df229420d])**
+* **[Link para o Certificado no Coursera](https://coursera.org/share/fa64e3ae11e03bc02b8a2e1df229420d)**
